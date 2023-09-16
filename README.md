@@ -1,5 +1,3 @@
-<html>
-
 # My Project Plan (Level 1 Heading)
 
 
@@ -29,5 +27,3 @@ In a bash terminal, run the following commands (*Do **NOT** actually run these c
     $ conda activate cv_detection
     $ python --version
     $ python example.py
-
-</html>
