@@ -6,14 +6,14 @@
 
 ## Shell command: cd and ls
 - arguments:
-$ [directory name]
-$ / root
-$ . current directory
-$ .. upper-level directory
-$ ~ home of current user
-$ /[directory name]: absolute path
-$ ./[directory name]: relative path
-$ ../[directory name]: relative path
+    $ [directory name]
+    $ / root
+    $ . current directory
+    $ .. upper-level directory
+    $ ~ home of current user
+    $ /[directory name]: absolute path
+    $ ./[directory name]: relative path
+    $ ../[directory name]: relative path
 - options:
     l show detailed information (long format)
     lh same as above, but size in units
@@ -21,9 +21,9 @@ $ ../[directory name]: relative path
 ![KakaoTalk_20230926_190930787](https://github.com/Sputnik0814/temp-repo/assets/143800230/dd8f1509-94f8-4d91-91e8-92affb994599)
 
 Tip: Autocompletion
-$ Press “tab” key
+    $ Press “tab” key
 Tip: Past commands
-$ Press “up arrow” key
+    $ Press “up arrow” key
 Shell command: clear
 
 ## Manipulation
