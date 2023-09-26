@@ -33,6 +33,7 @@ Tip: Autocompletion
 
 Tip: Past commands
 > Press “up arrow” key
+
 Shell command: clear
 
 ## Manipulation
